@@ -1,5 +1,5 @@
-[redhawk]
-name=REDHAWK
-baseurl=http://yum.axiosengineering.com/redhawk/1.10/el6/x86_64
+[redhawk-deps]
+name=REDHAWK Dependencies
+baseurl=http://redhawk-deps-yum.s3-website-us-east-1.amazonaws.com/
 enabled=1
 gpgcheck=0
