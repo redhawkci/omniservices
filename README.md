@@ -5,4 +5,4 @@ The image can be pulled from the [Docker Hub Registry](https://registry.hub.dock
 
 The default command for this image runs the omniNames and omniEvents services (via supervisor) and exposes them on ports 2809 and 11169 respectively. 
 
-	docker run --name omniservices --detach ryanbauman/omniservices
+	docker run --name omniservices --detach redhawkci/omniservices
